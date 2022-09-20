@@ -1,2 +1,3 @@
 **Unreleased**
-* Initial release with Python3 support
+* Logo has been updated 
+* Fixed an issue with Action Result types 
